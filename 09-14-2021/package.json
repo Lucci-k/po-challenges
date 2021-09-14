@@ -1,0 +1,12 @@
+{
+  "name": "09-14-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "non-repeating-string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
